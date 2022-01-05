@@ -1,0 +1,19 @@
+head {
+    display: none; /*none vai considerar na tela como se o head n existisse, nem vai reservar espaço na pagina*/
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8em; /*espaçamento de uma linha para outra*/
+    color: #666;
+}
+
+
+
+
+
+
+
