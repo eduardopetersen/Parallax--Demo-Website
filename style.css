@@ -33,8 +33,10 @@ div {
     background-attachment: fixed;
 }
 
-
-   
+.section {
+    text-align: center;
+    padding: 50px 80px;
+}
 
 
 
