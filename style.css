@@ -17,7 +17,7 @@ body {
 
 .pimg1 {
     background-image: url(/Parallax--Demo-Website/pexels-mohamed-almari-2168974.jpg);
-    min-height: 100%;
+    min-height: 600px;
 }
 
 div {
@@ -48,9 +48,11 @@ div {
     background-color: #111;
     color: #fff;
     padding: 20px;
+
 }
 
 .section {
+    display: block;
     text-align: center;
     padding: 50px 80px;
 }
@@ -63,6 +65,38 @@ h2 {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.section-light {
+    background-color: #f4f4f4;
+    color: #666;
+}
+
+.pimg2 {
+    background-image: url(/Parallax--Demo-Website/pexels-ibrahim-boran-613021.jpg);
+    min-height: 400px;
+}
+
+.ptext .border.trans {
+    background-color: transparent;
+}
+
+.section-dark {
+    background-color: #282e34;
+    color: #ddd;
+}
+
+.pimg3 {
+    background-image: url(/Parallax--Demo-Website/pexels-pixabay-40142.jpg);
+    min-height: 400px;
 }
 
 
